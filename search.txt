@@ -1,0 +1,131 @@
+face 
+short circuit 
+dough 
+define responsible 
+flow 
+benefit 
+feather string 
+drawer 
+quality 
+distribute 
+rabbit 
+tumble slice 
+responsible 
+flow 
+benefit 
+feather 
+string 
+drawer 
+face 
+short 
+wait 
+invite 
+Recall 
+how 
+the 
+arithmetic 
+operator / 
+works. 
+If 
+both 
+operands 
+of / 
+are 
+integers, 
+the 
+result
+is 
+an 
+integer; 
+otherwise, 
+the 
+result 
+is 
+a 
+floating-point 
+number. 
+Similarly, 
+the stream
+insertion 
+operator, <<, 
+and 
+the 
+stream 
+extraction 
+operator, >>, 
+are 
+overloaded. 
+The
+operator << 
+is 
+used 
+as 
+both 
+a 
+stream 
+insertion 
+operator 
+and 
+a 
+left 
+shift 
+operator. 
+The
+operator >> 
+is 
+used 
+as 
+both 
+a 
+stream 
+extraction 
+operator 
+and 
+a 
+right 
+shift 
+operator. 
+These
+are 
+examples 
+of 
+operator 
+overloading.
+Other 
+examples 
+of 
+overloaded 
+operators 
+are + 
+and -. 
+The 
+results 
+of + 
+and – 
+are 
+different
+for 
+integer 
+arithmetic, 
+pneumonia
+management 
+socialist 
+strap
+highway
+environment
+free
+thick
+leash
+disorder
+nap
+debate
+terminal
+mosquito 
+convince 
+excavation 
+departure 
+figure 
+order 
+approach 
+bargain 
+
